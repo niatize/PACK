@@ -61,6 +61,6 @@ legend{
     font-weight: bolder;
     border-radius: 999px;
 }
-input[type="text"],[type="password],[type=email]{
+input[type="text"],[type="password"],[type="email"]{
     height: 300px;
          }
